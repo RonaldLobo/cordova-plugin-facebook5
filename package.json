@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lenguyentrang/cordova-plugin-facebook5"
+    "url": "git+https://github.com/lenguyentrang/cordova-plugin-facebook5.git"
   },
   "keywords": [
     "cordova",
@@ -25,5 +25,20 @@
     "social",
     "sharing"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lenguyentrang/cordova-plugin-facebook5/issues"
+  },
+  "homepage": "https://github.com/lenguyentrang/cordova-plugin-facebook5#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Nguyen Trang"
 }
